@@ -1,4 +1,3 @@
-Program :
 import java.util.Scanner;
 
 public class ArrayIndexAccess {
