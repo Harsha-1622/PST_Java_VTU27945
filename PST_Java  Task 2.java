@@ -1,3 +1,4 @@
+Program :
 import java.util.Scanner;
 
 public class ArrayIndexAccess {
@@ -31,3 +32,14 @@ public class ArrayIndexAccess {
         sc.close();
     }
 }
+
+Output :
+Enter the size of the array: 5
+Enter the array elements:
+10
+20
+30
+40
+50
+Enter the index: 3
+Element at index 3 is: 40
