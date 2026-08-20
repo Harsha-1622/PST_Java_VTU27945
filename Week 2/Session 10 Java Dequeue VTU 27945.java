@@ -42,3 +42,7 @@ public class test {
     }
 }
 
+Output:
+6 3
+5 3 5 2 3 2
+3
