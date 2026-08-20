@@ -8,3 +8,9 @@ class Solution {
         return d.getDayOfYear();
     }
 }
+
+Input
+date =
+"2019-01-09"
+Output:
+9
