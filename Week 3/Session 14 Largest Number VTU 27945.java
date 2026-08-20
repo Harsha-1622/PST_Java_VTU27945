@@ -28,3 +28,17 @@ class Solution {
         return result.toString();
     }
 }
+
+Input :
+5
+amy 100
+david 100
+heraldo 50
+aakansha 75
+aleksa 150
+Output :
+aleksa 150
+amy 100
+david 100
+aakansha 75
+heraldo 50
