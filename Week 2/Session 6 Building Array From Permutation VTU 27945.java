@@ -10,3 +10,6 @@ class Solution {
         return ans;
     }
 }
+
+Output:
+[0,1,2,4,5,3]
