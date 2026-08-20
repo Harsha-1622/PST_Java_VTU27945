@@ -11,3 +11,9 @@ class Solution {
                    .getDisplayName(TextStyle.FULL, Locale.ENGLISH);
     }
 }
+
+Output:
+day = 31
+month = 8
+year = 2019
+"Saturday"
