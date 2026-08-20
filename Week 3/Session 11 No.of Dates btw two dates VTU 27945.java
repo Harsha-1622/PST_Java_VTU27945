@@ -9,3 +9,8 @@ class Solution {
         return (int) Math.abs(ChronoUnit.DAYS.between(d1, d2));
     }
 }
+
+Output:
+date1 = "2019-06-29"
+date2 = "2019-06-30"
+1
