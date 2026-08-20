@@ -48,3 +48,9 @@ class Solution {
         }
     }
 }
+
+Input :
+nums =
+[10,2]
+Output :
+"210"
