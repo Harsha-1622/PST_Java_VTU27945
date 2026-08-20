@@ -26,3 +26,17 @@ for (int i = 0; i < t; i++) {
 
    }
 }
+
+Output:
+5
+john tom
+john mary
+john tom
+mary anna
+mary anna
+
+1
+2
+2
+3
+3
