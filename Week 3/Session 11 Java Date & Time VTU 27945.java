@@ -49,3 +49,8 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+
+
+Output:
+08 05 2015
+WEDNESDAY
