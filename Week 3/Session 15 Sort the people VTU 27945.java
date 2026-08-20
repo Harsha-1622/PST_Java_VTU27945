@@ -23,3 +23,11 @@ class Solution {
         return result;
     }
 }
+
+Input :
+names =
+["Mary","John","Emma"]
+heights =
+[180,165,170]
+Output :
+["Mary","Emma","John"]
