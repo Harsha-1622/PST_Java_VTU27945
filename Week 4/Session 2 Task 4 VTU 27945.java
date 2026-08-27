@@ -17,3 +17,7 @@ class Solution {
         return false;
     }
 }
+
+Output:
+nums = [1,2,3,1]
+true
