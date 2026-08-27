@@ -57,3 +57,8 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+
+Output:
+5 6 7
+3 6 10
+1 1
