@@ -38,3 +38,10 @@ public class Main {
         sc.close();
     }
 }
+
+Output:
+gaga -> true
+abccab -> true
+rotor -> true
+xyzxy -> false
+abbaab -> true
