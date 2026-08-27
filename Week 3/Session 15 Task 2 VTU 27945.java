@@ -52,3 +52,16 @@ public class Main {
         }
     }
 }
+
+Input : 
+6 
+S1 60 
+S2 40 
+S1 80 
+S3 70 
+S2 90 
+S3 30 
+Output :
+S1 70.0 
+S2 90.0 
+S3 70.0 
