@@ -26,3 +26,6 @@ public class Solution {
         System.out.println(halvesAreAlike(s));
     }
 }
+
+Output:
+true
