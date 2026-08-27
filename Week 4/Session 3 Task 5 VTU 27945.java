@@ -50,3 +50,7 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+
+Output:
+07:05:45PM
+19:05:45
