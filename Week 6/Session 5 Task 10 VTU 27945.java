@@ -175,3 +175,21 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+
+Input :
+13
+aaaaabbbbaaaa
+Output :
+12
+12
+10
+8
+8
+9
+11
+13
+11
+9
+8
+8
+10
