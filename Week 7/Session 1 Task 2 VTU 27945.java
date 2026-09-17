@@ -43,3 +43,13 @@ public class InstanceOFTutorial{
       System.out.println(count(mylist));
    }
 }
+
+Input :
+5
+Student
+Student
+Rockstar
+Student
+Hacker
+Output :
+3 1 1
