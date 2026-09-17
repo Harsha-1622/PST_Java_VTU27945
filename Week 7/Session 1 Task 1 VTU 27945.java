@@ -14,3 +14,9 @@ class ParkingSystem {
         return false;
     }
 }
+
+Input :
+["ParkingSystem","addCar","addCar","addCar","addCar"]
+[[1,1,0],[1],[2],[3],[1]]
+Output :
+[null,true,true,false,false]
